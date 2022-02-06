@@ -10,7 +10,7 @@ with user set paramaters or can search through a text file set in the same direc
  * Update Text File
  * Reset Text File
 ## Upcoming Features ##
- * ~~Custimize How Many Threads You Want To Use
+ * ~~Custimize How Many Threads You Want To Use~~
  * EXE File
  * DMG File
  * Rewrite Code To Use Reqeust Instead Of Selenium
